@@ -59,7 +59,7 @@ public class MergeTwoLists{
 		
 		while(result != null){
 			
-			System.out.println(result.val + " ");
+			System.out.print(result.val + " ");
 			
 			result = result.next;
 		}
